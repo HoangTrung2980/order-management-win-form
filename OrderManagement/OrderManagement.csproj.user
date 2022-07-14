@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\FormAddOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAddOrder_AddPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAddOrder_AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUpdateOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUpdateOrder_EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OrderManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAddCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUpdateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormUpdateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl\ucCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\ucOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControl\ucProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
