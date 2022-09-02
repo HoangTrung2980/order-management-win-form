@@ -4,6 +4,7 @@
 * Using Entity Framework
 * Using .Net 5.0
 * Using .appconfig
+* MS SQL
 
 ### Main menu
 ![Main menu](https://github.com/NightmareJxS/order-management-win-form/blob/main/images/MainMenu.PNG)
